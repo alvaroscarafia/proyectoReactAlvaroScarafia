@@ -6,10 +6,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h2>Mi nombre es Alvaro Scarafia David</h2>
         <p>
           Bienvenido a mi proyecto de ReactJs.
         </p>
-        <h2>Alvaro Scarafia</h2>
+        <p>Coming soon...</p>
       </header>
     </div>
   );
